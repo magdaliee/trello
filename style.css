@@ -40,6 +40,7 @@ button {
 	margin-top: 10px;
 	border-top: 2px solid #F99;
 	padding-top: 20px;
+	clear: right;
 }
 
 .create-column {
